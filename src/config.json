@@ -1,0 +1,15 @@
+{
+  "services": {
+    "attendix": "https://api.apiit.edu.my/attendix",
+    "student": {
+      "profile": "https://api.apiit.edu.my/student/profile"
+    }
+  },
+  "endpoints": {
+    "cas": "https://cas.apiit.edu.my/cas/v1/tickets",
+    "attendix": "https://attendix.apu.edu.my/graphql"
+  },
+  "apiKeys": {
+    "awsAmplify": "da2-dv5bqitepbd2pmbmwt7keykfg4"
+  }
+}
